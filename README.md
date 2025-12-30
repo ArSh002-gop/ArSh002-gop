@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Arsh 👋
+*1st Year B.Sc. (Hons) Biotechnology Student at JECRC University*
 
-<!--
-**ArSh002-gop/ArSh002-gop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧪 About Me
+I am an aspiring Biotechnologist with a strong interest in the intersection of **Life Sciences** and **Computational Data Analysis**. 
 
-Here are some ideas to get you started:
+### 🧬 Current Focus & Projects
+- **Structural Biology**: Modeling molecular motors like **ATP Synthase** in 3D using R.
+- **Biostatistics**: Analyzing enzyme kinetics and phylogenetic relationships.
+- **Forensic Science**: Exploring DNA profiling and its computational verification.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technical Toolkit
+- **Languages**: R (Primary), Markdown
+- **Tools**: RStudio, Git, GitHub
+
+---
+📫 **Connect with me**: https://www.linkedin.com/in/aryan-sharma-a92105373/
